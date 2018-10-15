@@ -4,7 +4,7 @@
 
 Tiffany Batarseh
 
-1. You are organizing your new bioinformatics project, create a directory with your project name and subdirectories within it called data and protocols. You realize you do need the protocols directory in a different directory called experiments in your home directory.
+1. You are organizing your new bioinformatics project, create a directory with your project name and subdirectories within it called data and protocols. You realize you need the protocols directory in a different directory called experiments in your home directory.
 
 Answer: 
 ```
