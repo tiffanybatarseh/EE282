@@ -19,6 +19,9 @@ cd Experiments
 mkdir Protocols
 ```
 
+### Question 1 Comments:
+This was very well done. I would just recommmend using mkdir -p as this allows for ignoring the directory if it already exists. The other thing is rmdir will only remove empty directories, rm -rf will remove directories with files in them, but be warned since the -f option will not prompt you for removal of files and also be very careful when using this with wildcards i.e. *
+
 2.  Let's explore the best methods to extract information from a matrix vs. a data frame. You have a data frame (mlbsubset loaded in previously) loaded into your R workspace. Create a small matrix in your workspace. Get the second column in the matrix. Now, get only the second column in the data frame, represented as a column. What happens if you try to get the second column out of the data frame with double brackets or with the same syntax/code as you did with the matrix? How would you get a single value from the matrix?
 
 Answer:
