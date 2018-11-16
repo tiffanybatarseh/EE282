@@ -55,6 +55,10 @@ Answer:
 #Double brackets in a matrix will extract a singular value out of the matrix in the position specified
 ```
 
+### Question 2 Comments:
+
+Good job. It's worth noting that you can only refer to a matrix using the [,2] notation in this example. The alternate notations available to dataframes give an inappropriate result.
+
 3. You need to share a single file with a colleague. The file is in a directory that is in your home directory that we assume is already created. What permissions of your home directory, directory containing the file, and the file itself do you need to change in order to make the file readable to your colleague (he is not part of your group on your cluster)?
 
 Answer:
