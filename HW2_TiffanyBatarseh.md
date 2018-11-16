@@ -68,4 +68,6 @@ chmod o+x /homedirectory/directorywithfile
 chmod o+r /homedirectory/directorywithfile/file
 ```
 
+### Question 3 Comments:
 
+Good job.
